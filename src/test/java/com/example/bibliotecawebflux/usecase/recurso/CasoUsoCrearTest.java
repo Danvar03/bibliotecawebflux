@@ -40,7 +40,6 @@ class CasoUsoCrearTest {
 
         var result = casoUsoCrear.apply(recursoDTO);
         Assertions.assertEquals(result.block(), "1");
-
     }
 
 

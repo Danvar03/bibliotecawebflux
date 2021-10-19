@@ -3,6 +3,7 @@ package com.example.bibliotecawebflux.usecase;
 import com.example.bibliotecawebflux.dto.RecursoDTO;
 import com.example.bibliotecawebflux.model.Recurso;
 import com.example.bibliotecawebflux.repositories.RepositorioRecurso;
+import com.example.bibliotecawebflux.usecase.CasoUsoConsultarDisponibilidad;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

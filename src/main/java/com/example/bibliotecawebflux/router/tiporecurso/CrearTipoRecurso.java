@@ -24,6 +24,7 @@ public class CrearTipoRecurso {
                 .flatMap(result -> ServerResponse.ok()
                 .contentType(MediaType.APPLICATION_JSON)
                 .bodyValue(result)))
+
                 );
     }
 }
