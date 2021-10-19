@@ -1,11 +1,10 @@
-package com.example.mapper;
+package com.example.bibliotecawebflux.mapper;
 
 import com.example.bibliotecawebflux.dto.RecursoDTO;
 import com.example.bibliotecawebflux.dto.RespuestaRecursoDTO;
 import org.springframework.stereotype.Component;
 
 import java.text.SimpleDateFormat;
-import java.time.LocalDate;
 import java.util.Date;
 import java.util.function.Function;
 

@@ -1,4 +1,4 @@
-package com.example.mapper;
+package com.example.bibliotecawebflux.mapper;
 
 import com.example.bibliotecawebflux.dto.RecursoDTO;
 import com.example.bibliotecawebflux.model.Recurso;
